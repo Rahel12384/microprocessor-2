@@ -56,7 +56,7 @@ if(Serial.available()>0)
   
   {
   
-    digitalWrite(led , HIGH);
+  digitalWrite(led , HIGH);
     
   }
   
@@ -64,12 +64,15 @@ if(Serial.available()>0)
   
   {
   
-    digitalWrite(led , Low);
+  digitalWrite(led , Low);
   }
   
 }
 
 }
+
+## نتیجه گیری: 
+اگر کاربر حرف H یا h را وارد کند LED روشن میشود و اگر کاربر حرف L یا l را وارد کند LED خاموش میشود
 
 ## شماتیک مدار
 ![توضیح تصویر]()
