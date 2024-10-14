@@ -1,10 +1,10 @@
 # نام آزمایش :
 
-روشن کردن LED با 'H' و خاموش کردن LED با 'L'
+روشن کردن LED با 'H'یا 'h' و خاموش کردن LED با 'L' یا 'l'
 
 ##هدف آزمایش :
 
-روشن کردن LED با سریال مانیتور با استفاده از کدهای تعریفی L & H توسط کاربر 
+روشن کردن LED با سریال مانیتور با استفاده از کدهای تعریفی L & H یا h & l توسط کاربر 
 
 ## ابزار مورد نیاز :
 
@@ -30,7 +30,46 @@
 
 ## کد آزمایش :
 
+const int led = 13;
 
+void setup()
+
+{
+
+pinMode(led , OUTPUT);
+
+Serial.begin(9600);
+
+}
+
+void loop() 
+
+{
+
+if(Serial.available()>0)
+
+{
+
+  char incomingByte = Serial.read();
+  
+  if(incomingByte == 'H' || incomingByte == 'h')
+  
+  {
+  
+    digitalWrite(led , HIGH);
+    
+  }
+  
+  else if(incomingByte == 'L' || incomingByte == 'l')
+  
+  {
+  
+    digitalWrite(led , Low);
+  }
+  
+}
+
+}
 
 ## شماتیک مدار
 ![توضیح تصویر]()
