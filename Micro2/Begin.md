@@ -42,7 +42,7 @@ delay(1000);
 نکته: اگر حرف ln را بعد از کلمه print  بنویسیم ، هرکدام از این دستورات در خط های پشت سر هم چاپ میشوند
 درغیر این صورت همه پشت سر هم چاپ میشود
 
-## شماتیک مدار
+## شکل مدار
 ![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro2/IMG_20241014_005341_980.jpg)
 
 ![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro2/IMG_20241014_005342_185.jpg)
