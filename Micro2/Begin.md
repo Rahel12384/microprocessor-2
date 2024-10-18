@@ -35,7 +35,7 @@ delay(1000);
   delay(1000): وقفه ۱ ثانیه ای
 
 
-##نتیجه گیری:
+## نتیجه گیری:
 
 این برنامه هر ۱ ثانیه دستور hello raheleh را چاپ میکند
 
@@ -43,6 +43,8 @@ delay(1000);
 درغیر این صورت همه پشت سر هم چاپ میشود
 
 ## شماتیک مدار
-![توضیح تصویر]()
+![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro2/IMG_20241014_005341_980.jpg)
+
+![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro2/IMG_20241014_005342_185.jpg)
  
   
