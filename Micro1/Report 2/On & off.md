@@ -62,6 +62,3 @@ delay (1000);
 ![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro1/Report%202/IMG_20241007_084330.jpg)
 
 
- 
-## نتیجه آزمایش :
-![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro1/Report%202/VID_20241007_085642.gif)
