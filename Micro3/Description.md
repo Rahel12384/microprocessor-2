@@ -34,5 +34,6 @@ if(a == "on"): اگر رشته خوانده شدع برابر on باشد LED ر
 
 else if(a == "off"): اگر رشته خوانده شده "off" باشد، LED را خاموش می‌کند
 
-
+## شماتیک مدار:
+![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro3/2.png)
 
