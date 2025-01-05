@@ -59,7 +59,7 @@ delay (1000);
 
 
 ## شماتیک مدار :
-![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro1/1.png)
+![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro1/22.png)
 
 ## شکل مدار :
 ![توضیح تصویر](https://github.com/Rahel12384/microprocessor-2/blob/main/Micro1/Report%202/IMG_20241007_084330.jpg)
